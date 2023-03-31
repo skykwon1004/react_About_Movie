@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react_movie_yts/static/css/main.cb80f6e0.css",
+    "main.js": "/react_movie_yts/static/js/main.fda2f3dd.js",
+    "index.html": "/react_movie_yts/index.html",
+    "main.cb80f6e0.css.map": "/react_movie_yts/static/css/main.cb80f6e0.css.map",
+    "main.fda2f3dd.js.map": "/react_movie_yts/static/js/main.fda2f3dd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cb80f6e0.css",
+    "static/js/main.fda2f3dd.js"
+  ]
+}
